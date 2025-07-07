@@ -23,6 +23,9 @@ Semi-supervised Camouflaged Object Detection (SSCOD) aims to reduce reliance on 
 ### Evaluation
 Thanks to the project of (https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
 
+### Contact
+Feel free to send e-mails to me (1558239392@qq.com).
+
 ### Acknowledgements
 The codes and datasets are based on [Noisy-COD](https://github.com/zhangjinCV/Noisy-COD) and [SAM](https://github.com/facebookresearch/segment-anything). Please also follow their licenses. Thanks for the awesome work.
 
