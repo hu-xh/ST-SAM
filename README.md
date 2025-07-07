@@ -18,7 +18,7 @@ Semi-supervised Camouflaged Object Detection (SSCOD) aims to reduce reliance on 
 - Numpy 1.26.3
 
 ### Datasets
-- [Datasets](https://pan.baidu.com/s/1V9VEMN5RChGvl42nU6FhSA) with the fetch code:1234.
+- [Training and Test Sets](https://drive.google.com/drive/folders/1nHD-d3FanT6-ORsZTEeGgGzQ2CUKyWSe).
 
 ### Evaluation
 Thanks to the project of (https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
