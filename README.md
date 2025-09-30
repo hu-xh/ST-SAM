@@ -27,6 +27,12 @@ Semi-supervised Camouflaged Object Detection (SSCOD) aims to reduce reliance on 
 ### Datasets
 - [Training and Test Sets](https://pan.baidu.com/s/1hhNPQzY6f8HuSCgqv0y5gQ?pwd=2025).
 
+### Results
+You can download the tested result maps at - [Baidu Pan link] (https://pan.baidu.com/s/1vCTX5Qem3NGD0tiKDIcCnw?pwd=2025) with the fetch code:2025.
+
+You can download the parameter pth at - [Baidu Pan link] (https://pan.baidu.com/s/1i8eiS_cmiEQvwYoquwfnyw?pwd=2025) with the fetch code:2025.
+- [x] Due to a mistake in the codes, an unused backbone was declared, resulting in the doubled size of the saved pth. However, this does not affect the final result.
+
 ### Evaluation
 Thanks to the project of (https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
 
